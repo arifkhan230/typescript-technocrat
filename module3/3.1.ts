@@ -3,7 +3,8 @@
 
     class Animal {
 
-
+        // parameter properties
+        
         constructor(public name: string, public species: string, public sound: string) { }
 
         makeSound() {
